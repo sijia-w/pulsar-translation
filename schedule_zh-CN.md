@@ -166,5 +166,5 @@ security-tls-transport | futeng | | Translated
 security-token-admin | | | To Do
 sql-deployment-configurations | SylviaBABY | | Translated
 sql-getting-started | SylviaBABY | | Translated
-sql-overview | SylviaBABY | | Translated
+sql-overview | SylviaBABY | sijia-w | Translated
 sql-rest-api | SylviaBABY | | Translated
